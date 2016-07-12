@@ -1,0 +1,42 @@
+﻿@using Microsoft.AspNet.Identity
+@model BoxService.Models.Box
+
+@{
+    ViewBag.Title = "Here is a box just for you!";
+}
+
+<h2>Here is the box for You!</h2>
+
+<div>
+    <h4>Box Details</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("View Your Profile","viewProfileDetails", "Profiles", new { id = User.Identity.GetUserId() }, new { color = "yellow" }) |    
+</p>

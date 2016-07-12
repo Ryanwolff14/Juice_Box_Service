@@ -1,0 +1,63 @@
+﻿@model IEnumerable<BoxService.Models.Admin>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.#OfAccounts)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MonthlyTotal)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PercentMaxVGFruity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PercentMaxPGFruity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PercentMaxVGDessert)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PercentMaxPGDessert)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.#OfAccounts)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MonthlyTotal)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PercentMaxVGFruity)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PercentMaxPGFruity)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PercentMaxVGDessert)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PercentMaxPGDessert)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ID })
+        </td>
+    </tr>
+}
+
+</table>

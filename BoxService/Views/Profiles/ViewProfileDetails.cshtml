@@ -1,0 +1,44 @@
+﻿@using Microsoft.AspNet.Identity
+@model BoxService.Models.ApplicationUser
+
+@{
+    ViewBag.Title = "ViewProfileDetails";
+}
+
+<h2>Your Profile Details</h2>
+
+<div>
+    <h4>@Html.DisplayFor(model => model.UserName)</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.BoxName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BoxName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BoxPrice)
+        </dt>
+
+        <dd>
+            $@Html.DisplayFor(model => model.BoxPrice)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+
+    </dl>
+</div>
+<p>
+   
+    
+</p>

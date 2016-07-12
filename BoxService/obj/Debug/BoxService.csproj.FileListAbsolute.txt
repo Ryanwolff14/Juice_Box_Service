@@ -1,0 +1,225 @@
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\roslyn\csc.exe
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\roslyn\vbc.exe
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\BoxService.dll.config
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\BoxService.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\BoxService.pdb
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Antlr3.Runtime.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\EntityFramework.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\EntityFramework.SqlServer.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.Owin.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.Owin.Security.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Newtonsoft.Json.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Owin.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\System.Web.Helpers.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\System.Web.Mvc.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\System.Web.Optimization.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\System.Web.Razor.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\System.Web.WebPages.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\WebGrease.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\System.Web.Helpers.xml
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\System.Web.Mvc.xml
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\System.Web.Optimization.xml
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\System.Web.Razor.xml
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\System.Web.WebPages.xml
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Antlr3.Runtime.pdb
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Newtonsoft.Json.xml
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\EntityFramework.xml
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\EntityFramework.SqlServer.xml
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.Owin.xml
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.Owin.Security.xml
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\obj\Debug\BoxService.dll
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\obj\Debug\BoxService.pdb
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\obj\Debug\BoxService.csprojResolveAssemblyReference.cache
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\obj\Debug\BoxService.Migrations.reinitialize.resources
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\obj\Debug\BoxService.csproj.GenerateResource.Cache
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\obj\Debug\BoxService.Migrations.admin.resources
+C:\Users\Joseph A McIlheran\documents\visual studio 2015\Projects\BoxService\BoxService\obj\Debug\BoxService.Migrations.viewStats.resources
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\roslyn\csc.exe
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\roslyn\vbc.exe
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\BoxService.dll.config
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\BoxService.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\BoxService.pdb
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Antlr3.Runtime.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\EntityFramework.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\EntityFramework.SqlServer.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.Owin.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.Owin.Security.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Newtonsoft.Json.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Owin.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\System.Web.Helpers.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\System.Web.Mvc.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\System.Web.Optimization.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\System.Web.Razor.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\System.Web.WebPages.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\WebGrease.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\System.Web.Helpers.xml
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\System.Web.Mvc.xml
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\System.Web.Optimization.xml
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\System.Web.Razor.xml
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\System.Web.WebPages.xml
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Antlr3.Runtime.pdb
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Newtonsoft.Json.xml
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\EntityFramework.xml
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\EntityFramework.SqlServer.xml
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.Owin.xml
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.Owin.Security.xml
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\obj\Debug\BoxService.csprojResolveAssemblyReference.cache
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\obj\Debug\BoxService.dll
+C:\Users\Ryanw\OneDrive\Documents\Visual Studio 2015\Projects\JuiceService\BoxService\obj\Debug\BoxService.pdb
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\csc.exe
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\vbc.exe
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\BoxService.dll.config
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\BoxService.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\BoxService.pdb
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Antlr3.Runtime.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\EntityFramework.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\EntityFramework.SqlServer.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.Owin.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.Owin.Security.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Newtonsoft.Json.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Owin.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\System.Web.Helpers.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\System.Web.Mvc.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\System.Web.Optimization.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\System.Web.Razor.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\System.Web.WebPages.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\WebGrease.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\System.Web.Helpers.xml
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\System.Web.Mvc.xml
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\System.Web.Optimization.xml
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\System.Web.Razor.xml
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\System.Web.WebPages.xml
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Antlr3.Runtime.pdb
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Newtonsoft.Json.xml
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\EntityFramework.xml
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\EntityFramework.SqlServer.xml
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.Owin.xml
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.Owin.Security.xml
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\obj\Debug\BoxService.csprojResolveAssemblyReference.cache
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\obj\Debug\BoxService.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\obj\Debug\BoxService.pdb
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\csc.exe.config
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\csc.rsp
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\csi.exe
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\csi.rsp
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\System.AppContext.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\vbc.exe.config
+C:\Users\Ryanw\Desktop\DueTuesdayProjects\Box_Service\JuiceService\BoxService\bin\roslyn\vbc.rsp
